@@ -1,11 +1,11 @@
 {
   "urls": [
-    "api.doto-1a.com",
-    "api.doto-1b.com",
-    "api.doto-1c.com",
-    "api.doto-2a.com",
-    "api.doto-2b.com",
-    "api.doto-2c.com"
+    "https://api.doto-1a.com",
+    "https://api.doto-1b.com",
+    "https://api.doto-1c.com",
+    "https://api.doto-2a.com",
+    "https://api.doto-2b.com",
+    "https://api.doto-2c.com"
   ],
-  "version": 1
+  "version": 2
 }
