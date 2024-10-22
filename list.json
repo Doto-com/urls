@@ -2,10 +2,7 @@
   "urls": [
     "https://api.doto-1a.com",
     "https://api.doto-1b.com",
-    "https://api.doto-1c.com",
-    "https://api.doto-2a.com",
-    "https://api.doto-2b.com",
-    "https://api.doto-2c.com"
+    "https://api.doto-1c.com"
   ],
-  "version": 2
+  "version": 3
 }
