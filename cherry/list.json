@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "https://api.cherry.doto-1a.com",
+    "https://api.cherry.doto-1b.com",
+    "https://api.cherry.doto-1c.com"
+  ],
+  "version": 4
+}
